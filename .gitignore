@@ -1,1 +1,5 @@
+# Builds
+*.gem
+
+# Logs
 .byebug_history
