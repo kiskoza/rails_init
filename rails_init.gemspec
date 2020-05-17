@@ -11,7 +11,8 @@ Gem::Specification.new do |s|
   s.homepage    = 'https://github.com/kiskoza/rails-wizard'
   s.license     = 'MIT'
 
-  s.files       = ['lib/rails_init.rb']
+  s.executables << 'rails_init'
+  s.files       = Dir["lib/**/*.rb", "bin/*", "LICENSE", "*.md"]
 
   s.add_development_dependency 'byebug', '11.1.3'
 

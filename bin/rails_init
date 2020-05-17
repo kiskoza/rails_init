@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'rails_init'
+RailsInit.run
