@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name        = 'rails_init'
-  s.version     = '0.0.0'
-  s.date        = '2020-05-17'
+  s.version     = '0.1.0'
+  s.date        = '2020-05-27'
 
   s.summary     = 'Rais wizard'
   s.description = 'A simple gem to create new customized Rails projects'
